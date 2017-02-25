@@ -13,8 +13,7 @@ public class ShareActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState){
 
-
-
+        setContentView(R.layout.activity_share);
 
     }
 
